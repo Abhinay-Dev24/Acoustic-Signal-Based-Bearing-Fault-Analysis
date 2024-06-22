@@ -3,8 +3,10 @@ This repository hosts the project on acoustic signal-based bearing fault analysi
 analyze bearing faults under varying load conditions using advanced signal processing techniques.
 
 # Project Description
-The project utilizes acoustic signals to diagnose bearing faults in three-phase induction motors. Techniques such as Infinite Impulse Response (IIR) filter and Wiener filter are employed 
-to enhance the signal quality, enabling effective fault detection under half-load and full-load conditions. This analysis helps in understanding the health and performance changes in 
+- The project utilizes acoustic signals to diagnose bearing faults in three-phase induction motors.
+- Techniques such as Infinite Impulse Response (IIR) filter and Wiener filter are employed 
+to enhance the signal quality, enabling effective fault detection under half-load and full-load conditions.
+- This analysis helps in understanding the health and performance changes in 
 induction motors, which is crucial for maintaining the reliability and safety of industrial machinery.
 
 # Key Features
